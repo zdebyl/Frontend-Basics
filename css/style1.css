@@ -1,0 +1,21 @@
+h1 {
+    /* set styling of h1 tags */
+    background-color: #ffffff;
+    color: rgba(45, 183, 198, 0.5);
+}
+
+div {
+    /* set width to 100% of screen size */
+    width: 100%;
+
+    /* maximum width can be is 200px */
+    max-width: 200px;
+
+    /* set solid line black border with thickness of 1px */
+    border: 1px solid black;
+
+    /* set font */
+    font-size: 20px;
+    font-weight: 100;
+    font-family: "Roboto", sans-serif;
+}
